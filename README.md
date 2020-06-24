@@ -2,7 +2,7 @@
 
 Currently, everything below here is just, default Text
 
-Learn markup then customize :)
+I have to learn Markdown, then customize :)
 https://en.wikipedia.org/wiki/Markdown
 
 You can use the [editor on GitHub](https://github.com/n3m0-source/n3m0-source.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
