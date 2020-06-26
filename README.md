@@ -1,9 +1,14 @@
-## Welcome to my Test Page
+# Welcome to my Test Page
 
-Currently, everything below here is just, default Text
+<!--- 
+Currently, everything below here is just, default Text, update not anymore :)
 
-I have to learn Markdown, then customize :)
+I have to learn Markdown, then customize :) done it's very easy 
 https://en.wikipedia.org/wiki/Markdown
+
+Well it seems that markdown is easy as sh*t :D
+
+https://invidio.us/watch?v=HUBNt18RFbo
 
 You can use the [editor on GitHub](https://github.com/n3m0-source/n3m0-source.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -41,53 +46,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-
-*Test*
-
-<h1>Heading</h1>
-
-<h2>Sub-heading</h2>
-
-<p>Paragraphs are separated
-by a blank line.</p>
-
-<p>Two spaces at the end of a line<br />
-produces a line break.</p>
-
-<p>Text attributes <em>italic</em>, 
-<strong>bold</strong>, <code>monospace</code>.</p>
-
-<p>Horizontal rule:</p>
-
-<hr />
-
-<p>Strikethrough:</p>
-<strike>strikethrough</strike>
-
-<p>Bullet list:</p>
-
-<ul>
-<li>apples</li>
-<li>oranges</li>
-<li>pears</li>
-</ul>
-
-<p>Numbered list:</p>
-
-<ol>
-<li>lather</li>
-<li>rinse</li>
-<li>repeat</li>
-</ol>
-
-<p>An <a href="http://example.com">example</a>.</p>
-
-<p><img alt="Image" title="icon" src="Icon-pictures.png" /></p>
-
-<blockquote>
-<p>Markdown uses email-style &gt; characters for blockquoting.</p>
-</blockquote>
-
-<p>Inline <abbr title="Hypertext Markup Language">HTML</abbr> is supported.</p>
+-->
 
 
